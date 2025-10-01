@@ -1,0 +1,48 @@
+# Simulation files
+*.vcd
+*.fst
+*.fsdb
+*.shm
+*.trn
+*.dsn
+*.sdf
+*.out
+
+# Waveform viewers
+*.gtkw
+
+# Synthesis outputs
+*.log
+*.rpt
+*.summary
+*.jou
+*.pb
+*.dcp
+*.bit
+*.mcs
+*.edf
+*.blif
+*.v.bak
+
+# Tool-specific directories
+work/
+transcript
+*.wlf
+xsim.dir/
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Build directories
+build/
+out/
+bin/
